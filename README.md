@@ -37,8 +37,8 @@ The tasks revolved around identifying potential risks like fraud, bribery, and f
 📁 **Files in This Repository**
 | File | Description |
 |------|-------------|
-| `Task-1_Deloitte_Excel.xlsx` | Cleaned and categorized transaction data |
-| `Task-2_Tableau_Dashboard.twbx` |[ Tableau dashboard for fraud analysis](https://public.tableau.com/views/DeloitteForensicDataDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+| `Task-1_Deloitte_Excel` | Cleaned and categorized transaction data |
+| `Task-2_Tableau_Dashboard` |[ Tableau dashboard](https://public.tableau.com/views/DeloitteForensicDataDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
 ---
 
