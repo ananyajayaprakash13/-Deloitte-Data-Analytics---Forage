@@ -50,12 +50,6 @@ The tasks revolved around identifying potential risks like fraud, bribery, and f
 
 ---
 
-📊 **DASHBOARD**
-Check out the interactive dashboard built for the Deloitte Case Study:  
-👉 *[Deloitte Tableau Dashboard](#)* *(Insert Tableau Public link if hosted)*
-
----
-
 📜 **Certificate**
 This project was part of the Deloitte Australia Data Analytics Virtual Experience via Forage (April 2025). Certificate available upon request.
 
